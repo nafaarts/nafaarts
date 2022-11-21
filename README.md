@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naufal Alfadhil</h1>
 <h3 align="center">A passionate Full-stack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React, Svelte, Remix**
+- 🌱 I’m currently learning **React and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://n.nafaarts.com](https://n.nafaarts.com)
-
-- 💬 Ask me about **Laravel, React, Vue, Node JS**
 
 - 📫 How to reach me **naufal@nafaarts.com**
 
